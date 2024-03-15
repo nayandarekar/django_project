@@ -1,5 +1,8 @@
 /django_venv
 
+db.sqlite3
+django_project/django_project/__pycache__/*
+
 django_venv/
     .env
     __pycache__
